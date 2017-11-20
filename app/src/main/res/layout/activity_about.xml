@@ -7,7 +7,7 @@
     android:background="#ffffff"
     tools:context="com.singh.grv.factly.AboutActivity">
 
-    <com.airbnb.lottie.LottieAnimationView
+    <!--<com.airbnb.lottie.LottieAnimationView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:lottie_autoPlay="true"
@@ -15,7 +15,7 @@
         android:scaleType="centerCrop"
         android:adjustViewBounds="true"
         app:lottie_fileName="wave.json"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"/>-->
 
     <com.airbnb.lottie.LottieAnimationView
         android:layout_width="100dp"
